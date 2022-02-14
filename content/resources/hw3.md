@@ -5,7 +5,12 @@ description: This file is a resource which contains information about Guidelines
   Processing Problems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/3982759e9171e6d12f930310bbbedd84_hw3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: hw3.pdf
+type: OCWFile
 uid: 3982759e-9171-e6d1-2f93-0310bbbedd84
 ---

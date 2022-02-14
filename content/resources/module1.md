@@ -4,7 +4,12 @@ description: Lab exercise on temperature sensing, fluorescence readout system, a
   a DNA melting curve experiment.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/0c9c517efae28a31929a9d95cf92afcf_module1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: module1.pdf
+type: OCWFile
 uid: 0c9c517e-fae2-8a31-929a-9d95cf92afcf
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Tools
 title: Tools
+type: CourseSection
 uid: 6e300407-a663-41a2-9f9c-e68740bc6891
 videos:
   content:
