@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: lab_guidelines.pdf
-type: OCWFile
 uid: 56044f5c-9893-c00e-dd00-d17d4113c7ef
 ---

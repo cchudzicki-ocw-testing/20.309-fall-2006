@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
-type: OCWFile
 uid: 186780a4-8ca6-c2cb-c4cf-9f9b67515f82
 ---

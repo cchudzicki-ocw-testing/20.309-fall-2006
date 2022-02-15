@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: lec16.pdf
-type: OCWFile
 uid: 17f90a5c-bdab-65af-a291-86fa3a0659f5
 ---

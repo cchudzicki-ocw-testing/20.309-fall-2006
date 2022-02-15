@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: matlabintro.pdf
-type: OCWFile
 uid: b5668108-f2e6-5c59-5e6f-8870124632a8
 ---

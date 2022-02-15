@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: tutorial2.pdf
-type: OCWFile
 uid: 1876ddc4-f4b2-1584-2bd4-03e031a89ad8
 ---

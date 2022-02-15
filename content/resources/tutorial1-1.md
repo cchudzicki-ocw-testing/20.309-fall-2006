@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: tutorial1.pdf
-type: OCWFile
 uid: e5a63193-0e48-074e-0dbd-558ecf5f560c
 ---

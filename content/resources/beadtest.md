@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: beadtest.zip
-type: OCWFile
 uid: cb2550bd-c9d0-f00e-9f87-83384044d514
 ---

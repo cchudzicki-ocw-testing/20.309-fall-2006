@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: convclar.pdf
-type: OCWFile
 uid: 084d33c8-61a7-62bc-fcbd-602bbce40070
 ---

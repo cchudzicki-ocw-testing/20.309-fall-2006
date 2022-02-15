@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Other
 title: 20309_matlab.zip
-type: OCWFile
 uid: 21dc8b8a-ad27-a748-7c30-4087aa8a8c49
 ---

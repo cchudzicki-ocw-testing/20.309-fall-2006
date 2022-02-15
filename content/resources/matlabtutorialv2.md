@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: matlabtutorialv2.pdf
-type: OCWFile
 uid: 3f530c9d-373a-344f-d90d-a65ba9175018
 ---

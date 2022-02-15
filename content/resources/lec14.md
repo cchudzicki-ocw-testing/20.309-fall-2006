@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: lec14.pdf
-type: OCWFile
 uid: 577a368a-b1d3-8374-e6cb-aed236310e14
 ---

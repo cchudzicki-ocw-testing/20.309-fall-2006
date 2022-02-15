@@ -12,6 +12,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: lec15.pdf
-type: OCWFile
 uid: bd890602-4b6d-a23a-235a-cd446ab34bc9
 ---

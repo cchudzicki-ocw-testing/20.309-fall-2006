@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: convclar.pdf
-type: OCWFile
 uid: 898a07d0-2c6b-861a-8e8b-06acc7bcbc60
 ---
