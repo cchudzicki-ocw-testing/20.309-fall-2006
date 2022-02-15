@@ -7,6 +7,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biolo
 file_type: application/zip
 learning_resource_types:
 - Readings
+ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Other
