@@ -9,7 +9,7 @@ uid: 14199d62-da87-c70f-bae4-6d0285c23fa0
 
 20.309 is an "open format" lab. Generally, students should aim to sign up for 6-8 hours of lab time per week, which should be enough to accomplish the week's goals. Students are responsible for scheduling their own hours. Instructors and TAs will always be present in the lab, but will only be available to answer questions and help you work on your experiments during scheduled hours. (However, if an emergency arises or an injury occurs, get an instructor's attention immediately).
 
-Lab Guidelines Document: Safety, Lab Notebooks, and Other Issues ([PDF]({{< baseurl >}}/resources/lab_guidelines))
+Lab Guidelines Document: Safety, Lab Notebooks, and Other Issues ({{< resource_link 56044f5c-9893-c00e-dd00-d17d4113c7ef "PDF" >}})
 
 Four written reports on the labs will comprise 50% of the course grade. You will be working in pairs throughout the semester, but you will be submitting individual lab reports.
 
@@ -100,7 +100,7 @@ Lab orientation and tour, safety, introduction to electronics
 
 ### Module 0: introduction to electronics
 
-([PDF]({{< baseurl >}}/resources/module0))
+({{< resource_link 7c33d5fd-7c79-f5ba-38fa-1dd145e10dc2 "PDF" >}})
 
 Introduction to DC measurements, dividers, impedance, photodiode i-v curves, AC measurements, transfer functions, the Wheatstone bridge for temperature measurement
 
@@ -117,15 +117,15 @@ Introduction to DC measurements, dividers, impedance, photodiode i-v curves, AC 
 
 ### Module 1: measuring DNA melting curves
 
-([PDF]({{< baseurl >}}/resources/module1))
+({{< resource_link 0c9c517e-fae2-8a31-929a-9d95cf92afcf "PDF" >}})
 
 Build optics for DNA melting experiment, build photodiode readout circuit
 
 Calibrate fluorescence signal
 
-MATLAB® tutorial Part 1: the basics ([PDF]({{< baseurl >}}/resources/matlabintro))
+MATLAB® tutorial Part 1: the basics ({{< resource_link b5668108-f2e6-5c59-5e6f-8870124632a8 "PDF" >}})
 
-MATLAB® tutorial Part 2: curve fitting, etc. ([PDF]({{< baseurl >}}/resources/matlabtutorialv2))
+MATLAB® tutorial Part 2: curve fitting, etc. ({{< resource_link 3f530c9d-373a-344f-d90d-a65ba9175018 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -163,7 +163,7 @@ Test perfect-match, all-mismatch, and single-base mismatch DNA strands
 
 ### Module 2: atomic force microscope
 
-([PDF]({{< baseurl >}}/resources/module2))
+({{< resource_link 63ff36fe-23a7-030b-2bf2-d357aefc04c1 "PDF" >}})
 
 AFM alignment and calibration, AFM imaging I
 
@@ -199,7 +199,7 @@ Force spectroscopy
 
 Thermal fluctuations of microcantilevers: Boltzmann's constant experiment
 
-Lab exercise on sampling, aliasing, and digital data ([PDF]({{< baseurl >}}/resources/module2_5))
+Lab exercise on sampling, aliasing, and digital data ({{< resource_link f357cf9b-7e84-cf4d-f253-28a70711588d "PDF" >}})
 
 
 {{< tdclose >}}
@@ -216,7 +216,7 @@ Lab exercise on sampling, aliasing, and digital data ([PDF]({{< baseurl >}}/reso
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Image processing with MATLAB® - see Homework 3 in [assignments]({{< baseurl >}}/pages/assignments)
+Image processing with MATLAB® - see Homework 3 in {{< resource_link 544c7eea-11d8-a7e0-145c-35c32ce17be6 "assignments" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +225,7 @@ Image processing with MATLAB® - see Homework 3 in [assignments]({{< baseurl >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Optoelectronics: PMT and photon counting - see Homework 3.5 in [assignments]({{< baseurl >}}/pages/assignments)
+Optoelectronics: PMT and photon counting - see Homework 3.5 in {{< resource_link 544c7eea-11d8-a7e0-145c-35c32ce17be6 "assignments" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +238,7 @@ Optoelectronics: PMT and photon counting - see Homework 3.5 in [assignments]({{<
 
 ### Module 3: fluorescence microscope construction
 
-([PDF]({{< baseurl >}}/resources/module3))
+({{< resource_link a6802993-6512-3dbd-a752-e02113b97e99 "PDF" >}})
 
 White light imaging and Fourier optics
 
@@ -289,7 +289,7 @@ Finish construction, conduct experiments
 
 ### Module 4: optical trapping
 
-([PDF]({{< baseurl >}}/resources/module4))
+({{< resource_link 5fba7aee-bcf5-e17a-af94-1340c0a57efe "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
