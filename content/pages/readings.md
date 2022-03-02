@@ -214,11 +214,11 @@ Part II: AFM imaging II; force spectroscopy
 {{< tdopen >}}
 
 
-Tutorial 1: discrete and continuous signals, digital sampling, summary of Fourier transforms ({{< resource_link d77564eb-7de7-cbcd-98a2-2d64bbca401e "PDF" >}})
+Tutorial 1: discrete and continuous signals, digital sampling, summary of Fourier transforms ({{% resource_link d77564eb-7de7-cbcd-98a2-2d64bbca401e "PDF" %}})
 
-Tutorial 2: sampling example in Fourier space ({{< resource_link 1876ddc4-f4b2-1584-2bd4-03e031a89ad8 "PDF" >}})
+Tutorial 2: sampling example in Fourier space ({{% resource_link 1876ddc4-f4b2-1584-2bd4-03e031a89ad8 "PDF" %}})
 
-Convolution clarification examples ({{< resource_link 898a07d0-2c6b-861a-8e8b-06acc7bcbc60 "PDF" >}})
+Convolution clarification examples ({{% resource_link 898a07d0-2c6b-861a-8e8b-06acc7bcbc60 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -305,9 +305,9 @@ Optoelectronics: PMT and photon counting (linked to homework 3.5)
 
 ### Lecture slides
 
-({{< resource_link 577a368a-b1d3-8374-e6cb-aed236310e14 "PDF 1 - 1.9 MB" >}})
+({{% resource_link 577a368a-b1d3-8374-e6cb-aed236310e14 "PDF 1 - 1.9 MB" %}})
 
-({{< resource_link bd890602-4b6d-a23a-235a-cd446ab34bc9 "PDF 2" >}})
+({{% resource_link bd890602-4b6d-a23a-235a-cd446ab34bc9 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -340,9 +340,9 @@ Part I: white light imaging and Fourier optics
 
 ### Lecture slides
 
-Introduction to microscopy: geometric optics, lenses, ray tracing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 17f90a5c-bdab-65af-a291-86fa3a0659f5 "PDF - 1.1 MB" >}})
+Introduction to microscopy: geometric optics, lenses, ray tracing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 17f90a5c-bdab-65af-a291-86fa3a0659f5 "PDF - 1.1 MB" %}})
 
-Interference and diffraction, resolution in microscopy, Fourier optics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link c5c8f880-46b0-c843-fdbe-f8d1073fe249 "PDF - 1.0 MB" >}})
+Interference and diffraction, resolution in microscopy, Fourier optics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c5c8f880-46b0-c843-fdbe-f8d1073fe249 "PDF - 1.0 MB" %}})
 
 ### Online microscopy references
 
@@ -383,7 +383,7 @@ Part II: live-cell imaging - microrheology
 
 ### Lecture slides
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 186780a4-8ca6-c2cb-c4cf-9f9b67515f82 "PDF - 3.3 MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 186780a4-8ca6-c2cb-c4cf-9f9b67515f82 "PDF - 3.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -408,7 +408,7 @@ Part III: actin cytoskeleton imaging
 {{< tdopen >}}
 
 
-MATLAB® scripts for calculating MSD and G\* ({{< resource_link 21dc8b8a-ad27-a748-7c30-4087aa8a8c49 "ZIP" >}}) (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)
+MATLAB® scripts for calculating MSD and G\* ({{% resource_link 21dc8b8a-ad27-a748-7c30-4087aa8a8c49 "ZIP" %}}) (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)
 
 ### Papers referenced in the lab manual
 
