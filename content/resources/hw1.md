@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw1.pdf
 uid: c7a7db26-1a20-f61e-fabd-92dff6af4ee3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

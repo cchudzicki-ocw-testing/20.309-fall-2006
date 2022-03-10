@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: 14199d62-da87-c70f-bae4-6d0285c23fa0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 20.309 is an "open format" lab. Generally, students should aim to sign up for 6-8 hours of lab time per week, which should be enough to accomplish the week's goals. Students are responsible for scheduling their own hours. Instructors and TAs will always be present in the lab, but will only be available to answer questions and help you work on your experiments during scheduled hours. (However, if an emergency arises or an injury occurs, get an instructor's attention immediately).

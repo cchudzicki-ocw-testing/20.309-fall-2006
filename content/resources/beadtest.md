@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: beadtest.zip
 uid: cb2550bd-c9d0-f00e-9f87-83384044d514
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

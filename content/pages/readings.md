@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents a table of suggested readings for each lecture/lab session, plus slides used in a few lectures in Part III: Optics. Following the table is a list of [papers suggested for student oral presentations](#papers).

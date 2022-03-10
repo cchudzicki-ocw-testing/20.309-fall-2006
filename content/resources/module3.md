@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: module3.pdf
 uid: a6802993-6512-3dbd-a752-e02113b97e99
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

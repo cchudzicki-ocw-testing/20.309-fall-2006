@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 544c7eea-11d8-a7e0-145c-35c32ce17be6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Homework 1 ({{% resource_link c7a7db26-1a20-f61e-fabd-92dff6af4ee3 "PDF" %}})

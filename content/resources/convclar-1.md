@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: convclar.pdf
 uid: 084d33c8-61a7-62bc-fcbd-602bbce40070
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

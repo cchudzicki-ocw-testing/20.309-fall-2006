@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: tutorial2.pdf
 uid: 1876ddc4-f4b2-1584-2bd4-03e031a89ad8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

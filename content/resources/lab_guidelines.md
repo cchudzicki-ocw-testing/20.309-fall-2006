@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lab_guidelines.pdf
 uid: 56044f5c-9893-c00e-dd00-d17d4113c7ef
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

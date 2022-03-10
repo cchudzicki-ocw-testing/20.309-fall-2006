@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: matlabtutorialv2.pdf
 uid: 3f530c9d-373a-344f-d90d-a65ba9175018
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

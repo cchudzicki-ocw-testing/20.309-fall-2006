@@ -6,6 +6,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 6e300407-a663-41a2-9f9c-e68740bc6891
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 0420fbc2-feb4-c19d-0ee6-7e6e48417022

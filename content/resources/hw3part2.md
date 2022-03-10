@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw3part2.pdf
 uid: bf1a276e-5d92-3441-740e-9fe004e724d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

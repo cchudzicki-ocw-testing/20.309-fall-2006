@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 20309_matlab.zip
 uid: 21dc8b8a-ad27-a748-7c30-4087aa8a8c49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
