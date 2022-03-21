@@ -47,7 +47,7 @@ Module 0: introduction to electronics
 
 {{< tdclose >}}{{< tdopen >}}
 
-Agarwal, A., and J. H. Lang. _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005, chapters 2, 3, 9, and 10. ISBN: 9781558607354.   
+Agarwal, A., and J. H. Lang. _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005, chapters 2, 3, 9, and 10. ISBN: 9781558607354.    
 (Resistors, capacitors, voltage and current dividers, RC transients)
 
 This brief [Diode Primer](http://openwetware.org/wiki/20.309:DiodePrimer) will be helpful for working on this week's lab.
@@ -266,7 +266,7 @@ Mason, T. G. "Estimating the Viscoelastic Moduli of Complex Fluids using the Gen
 
 Lau, A. W. C., et al. "Microrheology, Stress Fluctuations, and Active Behavior of Living Cells." _Physical Review Letters_ 91 no. 19 (7 November 2003): 198101.
 
-### Three papers about peacock feathers
+_Three papers about peacock feathers_
 
 Zi, Jian, et al. "Coloration Strategies in Peacock Feathers." _PNAS_ 100 (2003): 12576-12578.
 
