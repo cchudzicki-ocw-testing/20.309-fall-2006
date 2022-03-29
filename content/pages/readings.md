@@ -212,9 +212,9 @@ Part I: white light imaging and Fourier optics
 
 _Lecture slides_
 
-Introduction to microscopy: geometric optics, lenses, ray tracing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 17f90a5c-bdab-65af-a291-86fa3a0659f5 "PDF - 1.1 MB" %}})
+Introduction to microscopy: geometric optics, lenses, ray tracing ({{% resource_link 17f90a5c-bdab-65af-a291-86fa3a0659f5 "PDF - 1.1 MB" %}})
 
-Interference and diffraction, resolution in microscopy, Fourier optics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c5c8f880-46b0-c843-fdbe-f8d1073fe249 "PDF - 1.0 MB" %}})
+Interference and diffraction, resolution in microscopy, Fourier optics ({{% resource_link c5c8f880-46b0-c843-fdbe-f8d1073fe249 "PDF - 1.0 MB" %}})
 
 _Online microscopy references_
 
@@ -242,7 +242,7 @@ Part II: live-cell imaging - microrheology
 
 _Lecture slides_
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 186780a4-8ca6-c2cb-c4cf-9f9b67515f82 "PDF - 3.3 MB" %}})
+({{% resource_link 186780a4-8ca6-c2cb-c4cf-9f9b67515f82 "PDF - 3.3 MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
