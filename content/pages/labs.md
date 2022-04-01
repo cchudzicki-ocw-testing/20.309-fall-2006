@@ -31,7 +31,7 @@ Scanning Probe Microscopy
 
 We will learn to configure and use "home-built" atomic force microscopes (AFMs) for imaging surfaces with nanometer-scale resolution, conducting sensitive force measurements, and exploring the ultimate detection limits of microcantilevers. Such instruments are essential for investigating the mechanics of single biomolecules, cellular adhesion and modulus, as well as the physical properties of biomaterials. The goal of these labs is to gain hands-on experience with these instruments in the lab and understand the basic principles that they use to achieve exquisite sensitivity.
 
-A video tutorial on using the AFM is presented on the [tools](/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/video_galleries/tools/).
+A video tutorial on using the AFM is presented on the {{% resource_link "6e300407-a663-41a2-9f9c-e68740bc6891" "tools" %}}.
 
 ### Optics
 
