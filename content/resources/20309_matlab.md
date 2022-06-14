@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lab supplement containing MATLAB? scripts for calculating MSD and G*.
   (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m
   and GetMSD.m.)'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/21dc8b8aad27a7487c304087aa8a8c49_20309_matlab.zip
+file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/21dc8b8aad27a7487c304087aa8a8c49_20309_matlab.zip
 file_type: application/zip
 learning_resource_types:
 - Readings
@@ -19,3 +19,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lab supplement containing MATLAB? scripts for calculating MSD and G*. (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)

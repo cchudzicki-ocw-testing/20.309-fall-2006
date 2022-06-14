@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Video for Homework 3 Problem #7. (The ZIP file contains: beadtest.avi)'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/cb2550bdc9d0f00e9f8783384044d514_beadtest.zip
+file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/cb2550bdc9d0f00e9f8783384044d514_beadtest.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Video for Homework 3 Problem #7. (The ZIP file contains: beadtest.avi)

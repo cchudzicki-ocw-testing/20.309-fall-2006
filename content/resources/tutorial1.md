@@ -2,7 +2,7 @@
 content_type: resource
 description: Tutorial on discrete and continuous signals, digital sampling, and summary
   of Fourier transforms.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/d77564eb7de7cbcd98a22d64bbca401e_tutorial1.pdf
+file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/d77564eb7de7cbcd98a22d64bbca401e_tutorial1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Tutorial on discrete and continuous signals, digital sampling, and summary of Fourier transforms.

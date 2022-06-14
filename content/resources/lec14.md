@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on physical optics, optical instrumentation, detectors,
   and noise.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/577a368ab1d38374e6cbaed236310e14_lec14.pdf
+file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/577a368ab1d38374e6cbaed236310e14_lec14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture slides on physical optics, optical instrumentation, detectors, and noise.
