@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides video tutorials that explore the theory and practice
+  of using the lab AFM, which differs somewhat from standard commercial AFM systems.
 is_media_gallery: true
 learning_resource_types:
 - Tools
