@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of lectures, labs, and readings for the
+  course.
 draft: false
 learning_resource_types:
 - Readings

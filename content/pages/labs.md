@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview of the laboratory modules such as electronics,
+  mechanics, optic and also lab report grading rubric.
 draft: false
 learning_resource_types:
 - Labs
